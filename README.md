@@ -80,5 +80,5 @@ pip install torch efficientnet-pytorch onnx
 Этот проект распространяется под лицензией MIT. Подробности см. в файле `LICENSE`.
 
 ## Ссылки
-Ссылка на нейронную сеть: https://github.com/DaniilKostashchuk/Classification_of_images_of_minerals_and_rock_cuts
+Ссылка на нейронную сеть: https://github.com/DaniilKostashchuk/Classification_of_images_of_minerals_and_rock_cuts<p>
 Сылка на TG-бота: https://github.com/DaniilKostashchuk/Telegram_Bot_for_Mineral_Classification/tree/main

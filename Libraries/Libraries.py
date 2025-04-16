@@ -1,0 +1,2 @@
+import torch
+from efficientnet_pytorch import EfficientNet

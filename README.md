@@ -10,7 +10,7 @@ from efficientnet_pytorch import EfficientNet
 model = EfficientNet.from_pretrained('efficientnet-b3', num_classes=2)
 
 # Загрузка весов из файла
-model.load_state_dict(torch.load('best_model_EfficientNet_clips.pth'))
+model.load_state_dict(torch.load('best_model.pth'))
 
 # Перевод модели в режим оценки (отключение слоев типа Dropout и BatchNorm)
 model.eval()
